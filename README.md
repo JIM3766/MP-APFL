@@ -1,5 +1,3 @@
-Here is a professional and clear English README template for your repository. It informs visitors about the upcoming files while establishing a strong initial presence.
-
 # MP-APFL: Multiphysics-Informed Adaptive Personalized Federated Learning for Battery State-of-Health Estimation
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE) <!-- Optional: Add a license badge later -->
