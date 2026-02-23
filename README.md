@@ -27,7 +27,7 @@ The repository will be structured as follows:
 
 MP-APFL/
 
-├── models/                   # Trained model checkpoints
+├── Models/                   # Trained model checkpoints
 
 ├── data/                    # Extracted battery data features
 
