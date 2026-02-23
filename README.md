@@ -29,7 +29,7 @@ MP-APFL/
 
 ├── Models/                   # Trained model checkpoints
 
-├── data/                    # Extracted battery data features
+├── data/                    # Extracted battery data features of USTC dataset
 
 ├── evaluation/              # Code for model testing and benchmarking
 
