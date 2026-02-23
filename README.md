@@ -1,7 +1,7 @@
 # MP-APFL: Multiphysics-Informed Adaptive Personalized Federated Learning for Battery State-of-Health Estimation
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE) <!-- Optional: Add a license badge later -->
-![Status](https://img.shields.io/badge/Status-Files%20Uploading%20Soon-orange) <!-- Custom badge to show activity -->
+![Status](https://img.shields.io/badge/Status-Files%20Uploaded-orange) <!-- Custom badge to show activity -->
 
 **Official repository** for the paper **"Multiphysics-Informed Adaptive Personalized Federated Learning for Battery State-of-Health Estimation"**.
 
